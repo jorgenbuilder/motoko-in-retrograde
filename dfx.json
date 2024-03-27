@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "motoko_retrograde_backend": {
-      "main": "src/motoko_retrograde_backend/main.mo",
+    "retro": {
+      "main": "src/main.mo",
       "type": "motoko"
     }
   },
